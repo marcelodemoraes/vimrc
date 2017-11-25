@@ -1,2 +1,3 @@
 # vimrc
-My VIM configurations
+
+Put in your home folder(linux) and change from vimrc to .vimrc 
