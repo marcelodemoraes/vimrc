@@ -95,7 +95,7 @@ map <C-n> :NERDTreeToggle<CR>
 "   ◣       ◢   "
 "Tema Molokai
 try "Detecta se existe o tema molokai
-	set termguicolors
+	"set termguicolors "caso nao habilite 256 cores
 	set t_Co=256
 	colorscheme molokai
 	let g:rehash256 = 1 "terminal de 256 cores
